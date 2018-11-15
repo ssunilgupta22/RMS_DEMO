@@ -1,0 +1,5 @@
+SENDER_ID,SEDEMO
+API_KEY,6gds7p61a52v92b36d61sqem4klx2qjs
+API_URL,https://instantalerts.co/api/web/send/?apikey=
+SMS_PROVIDER,springedge
+FORMAT,
